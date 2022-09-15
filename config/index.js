@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "wxb2930e8c90bf22cc",
+  APP_ID: "",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "6f658edec53ecafe9c49f1e15a1d7bd5",
+  APP_SECRET: "",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -29,7 +29,7 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "QuklzIqO5T5mU2deHUTlSW8SuB4i4wLlLcp0Dvb0Tws",
       // 所在省份
-      province: "江苏",
+      province: "江苏省",
       // 所在城市
       city: "无锡",
       // 新历生日, 仅用作获取星座运势, 格式必须
@@ -123,7 +123,7 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "江苏",
+  PROVINCE: "江苏省",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
   CITY: "无锡",
 
