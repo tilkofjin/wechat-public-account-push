@@ -29,7 +29,7 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "QuklzIqO5T5mU2deHUTlSW8SuB4i4wLlLcp0Dvb0Tws",
       // 所在省份
-      province: "江苏省",
+      province: "江苏",
       // 所在城市
       city: "无锡",
       // 新历生日, 仅用作获取星座运势, 格式必须
@@ -123,9 +123,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "江苏省",
+  PROVINCE: "安徽",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "无锡",
+  CITY: "安庆",
 
   /** 重要节日相关 */
 
